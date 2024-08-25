@@ -167,3 +167,5 @@ src/archive/
 config.py
 src/memories_old
 .DS_Store
+output.json
+*.db

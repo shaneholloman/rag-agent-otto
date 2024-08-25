@@ -1,3 +1,9 @@
+I'm in the process of porting all this functionality ofer to my AIFunctions repository.  
+That code is refactored to be more modular.  The basic idea is to write modules
+that LLMs like claude.ai can program without getting confused.
+
+https://github.com/MikeyBeez/AI_Functions
+
 ✨ Alas, brave adventurer! You've stumbled upon the grimoire of... ✨
 
 🤖 OTTO - Your Intelligent Conversational Companion 🦜
